@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RSS Processing</string>
+    <string-array name="feeds">
+        <item>Select the Avenger</item>
+        <item>Iron Man</item>
+        <item>Captain America</item>
+        <item>Hulk</item>
+        <item>Thor</item>
+        <item>Black Widow</item>
+        <item>Hawkeye</item>
+
+    </string-array>
+</resources>
